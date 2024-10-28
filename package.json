@@ -1,0 +1,26 @@
+{
+  "name": "cli-gpt",
+  "version": "1.0.0",
+  "description": "A.I Assistance by terminal",
+  "main": "app.js",
+  "bin": {
+    "cligpt": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancharlesx64/cli-gpt.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "ai",
+    "terminal",
+    "linux",
+    "windows"
+  ],
+  "author": "Jean Charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeancharlesx64/cli-gpt/issues"
+  },
+  "homepage": "https://github.com/jeancharlesx64/cli-gpt#readme"
+}
